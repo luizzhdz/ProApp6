@@ -1,0 +1,9 @@
+C:\Users\LuiZz\Desktop\Proy_pilas_colas\Proy_pilas_colas\bin\Debug\Proy_pilas_colas.exe.config
+C:\Users\LuiZz\Desktop\Proy_pilas_colas\Proy_pilas_colas\bin\Debug\Proy_pilas_colas.exe
+C:\Users\LuiZz\Desktop\Proy_pilas_colas\Proy_pilas_colas\bin\Debug\Proy_pilas_colas.pdb
+C:\Users\LuiZz\Desktop\Proy_pilas_colas\Proy_pilas_colas\obj\Debug\Proy_pilas_colas.csprojResolveAssemblyReference.cache
+C:\Users\LuiZz\Desktop\Proy_pilas_colas\Proy_pilas_colas\obj\Debug\Proy_pilas_colas.Form1.resources
+C:\Users\LuiZz\Desktop\Proy_pilas_colas\Proy_pilas_colas\obj\Debug\Proy_pilas_colas.Properties.Resources.resources
+C:\Users\LuiZz\Desktop\Proy_pilas_colas\Proy_pilas_colas\obj\Debug\Proy_pilas_colas.csproj.GenerateResource.Cache
+C:\Users\LuiZz\Desktop\Proy_pilas_colas\Proy_pilas_colas\obj\Debug\Proy_pilas_colas.exe
+C:\Users\LuiZz\Desktop\Proy_pilas_colas\Proy_pilas_colas\obj\Debug\Proy_pilas_colas.pdb
